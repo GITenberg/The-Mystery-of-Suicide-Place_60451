@@ -1,0 +1,30 @@
+_repo: The-Mystery-of-Suicide-Place_60451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex McVeigh
+    - Miller, Mrs. Alex. McVeigh
+    - Miller, Alexander McVeigh, Mrs.
+    - Point, Mittie Frances Clarke
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+    wikipedia: https://en.wikipedia.org/wiki/Mittie_Frances_Clarke_Point
+description: ''
+gutenberg_issued: '2019-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: The Mystery of Suicide Place
+url: http://www.gutenberg.org/ebooks/60451
